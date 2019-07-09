@@ -1,0 +1,66 @@
+{ 
+    "_id" : ObjectId("5d108217d13cf511a850c171"), 
+    "username" : "aa", 
+    "password" : "aaa", 
+    "userMail" : "aa@qq.com", 
+    "userPhone" : "15904911111", 
+    "userAdmin" : false, 
+    "userPower" : NumberInt(0), 
+    "userStop" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d10825ed13cf511a850c172"), 
+    "username" : "admin", 
+    "password" : "admin", 
+    "userMail" : "admin@163.com", 
+    "userPhone" : "13808086666", 
+    "userAdmin" : true, 
+    "userPower" : NumberInt(2), 
+    "userStop" : false, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d1082f8d13cf511a850c173"), 
+    "username" : "admin2", 
+    "password" : "admin2", 
+    "userMail" : "admin2@gmail.com", 
+    "userPhone" : "13923990666", 
+    "userAdmin" : true, 
+    "userPower" : NumberInt(1), 
+    "userStop" : false, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d10910d26e8f91ab0302d75"), 
+    "username" : "wj", 
+    "password" : "666", 
+    "userMail" : "wj@qq.com", 
+    "userPhone" : "13866660708", 
+    "userAdmin" : false, 
+    "userPower" : NumberInt(0), 
+    "userStop" : false, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d10a16bdc89001d9c6986a5"), 
+    "username" : "user1", 
+    "password" : "666", 
+    "userMail" : "user1@163.com", 
+    "userPhone" : "13811110001", 
+    "userAdmin" : false, 
+    "userPower" : NumberInt(0), 
+    "userStop" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d11a76d7caf172090b85917"), 
+    "username" : "yjp", 
+    "password" : "123", 
+    "userMail" : "111@qq.com", 
+    "userPhone" : "15900001111", 
+    "userAdmin" : false, 
+    "userPower" : NumberInt(0), 
+    "userStop" : false, 
+    "__v" : NumberInt(0)
+}

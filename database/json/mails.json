@@ -1,0 +1,36 @@
+{ 
+    "_id" : ObjectId("5d09a3a7405d8131cc61dc8a"), 
+    "fromUser" : "5d08883f78394b28d4b2c331", 
+    "toUser" : "5d08990b8fadcc259091fd5e", 
+    "title" : "站内信标题1", 
+    "context" : "站内信内容1", 
+    "date" : "2019-6-19 10:53:27 AM", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d09a3b1405d8131cc61dc8b"), 
+    "fromUser" : "5d08883f78394b28d4b2c331", 
+    "toUser" : "5d08990b8fadcc259091fd5e", 
+    "title" : "站内信标题2", 
+    "context" : "站内信内容2", 
+    "date" : "2019-6-19 10:53:37 AM", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d09a3d7405d8131cc61dc8c"), 
+    "fromUser" : "5d08883f78394b28d4b2c331", 
+    "toUser" : "5d08888e0fc324056011da74", 
+    "title" : "站内信标题3", 
+    "context" : "站内信内容3", 
+    "date" : "2019-6-19 10:54:15 AM", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d09a5d2405d8131cc61dc8d"), 
+    "fromUser" : "5d08883f78394b28d4b2c331", 
+    "toUser" : "5d08883f78394b28d4b2c331", 
+    "title" : "站内信标题4", 
+    "context" : "站内信内容4", 
+    "date" : "2019-6-19 11:02:42 AM", 
+    "__v" : NumberInt(0)
+}

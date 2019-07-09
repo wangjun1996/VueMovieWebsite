@@ -1,0 +1,176 @@
+{ 
+    "_id" : ObjectId("5d0897e03364a61d1c8c0621"), 
+    "movie_id" : "5d09e9d3dfb8dc3494d45020", 
+    "username" : "匿名用户", 
+    "context" : "zhenhaokan", 
+    "check" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d08985d548f9400cc3b699a"), 
+    "movie_id" : "5d09e9d3dfb8dc3494d45020", 
+    "username" : "wj", 
+    "context" : "zhenhaokan", 
+    "check" : false, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d103b13c4984f1f68e08839"), 
+    "movie_id" : "5d09e93cdfb8dc3494d4501e", 
+    "username" : "wj", 
+    "context" : "评论测试", 
+    "check" : false, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d10404699302109a07c4b6e"), 
+    "movie_id" : "5d09e9d3dfb8dc3494d45020", 
+    "username" : "匿名用户", 
+    "context" : "牛逼！！！好音乐真是颗幸福的原子弹！", 
+    "check" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d10405099302109a07c4b6f"), 
+    "movie_id" : "5d09e9d3dfb8dc3494d45020", 
+    "username" : "匿名用户", 
+    "context" : "这是我今年最喜欢的电影，没有之一。", 
+    "check" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d10425299302109a07c4b71"), 
+    "movie_id" : "5d09bb49b831750d82886ce5", 
+    "username" : "匿名用户", 
+    "context" : "雷洛加跛豪，王晶这回没有玩贱而是难得严肃了一回，整体制作非常老港片的味道，老派枭雄电影的感觉。刘德华果然是越来越有型了。", 
+    "check" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d1043c999302109a07c4b72"), 
+    "movie_id" : "5d09bb49b831750d82886ce5", 
+    "username" : "匿名用户", 
+    "context" : "王晶开辟了一个新类型——民族主义黑帮片。此片可作为新世纪后殖民主义港片的代表作，与具有分裂倾向的港毒片近身肉搏。", 
+    "check" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d10448f99302109a07c4b73"), 
+    "movie_id" : "5d09bb49b831750d82886ce5", 
+    "username" : "匿名用户", 
+    "context" : "江湖鱼龙混杂，如今尽是鱼虾。龙已飞天而去，任尔泥沙俱下。", 
+    "check" : false, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d104a164b22ce100847e887"), 
+    "movie_id" : "5d09c057b831750d82886d3b", 
+    "username" : "匿名用户", 
+    "context" : "黄渤是有追求的导演，之前真没敢报期望。中国式反乌托邦，以为会是麻花式的喜剧，会在老本行上偷懒，但远远挖掘了更深层次的东西，这对于处女作来说实属不易。体制内无法呈现的阴暗面，以巧妙的抉择呈现，效果惊艳。美术、音乐以及表演掌控自如，恭喜黄渤！", 
+    "check" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d104a264b22ce100847e888"), 
+    "movie_id" : "5d09c057b831750d82886d3b", 
+    "username" : "匿名用户", 
+    "context" : "真·一出好戏。剧情表演俱佳，求生模式的暗黑剧情扣人心弦，群戏表演很见功力。最意外张艺兴表演，黑化得很酷了；舒淇一如既往美如画。船舱倒立视角印象深刻，表现力和寓言性十足", 
+    "check" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d10a0afdc89001d9c6986a1"), 
+    "movie_id" : "5d09bb49b831750d82886ce5", 
+    "username" : "wj", 
+    "context" : "犹记得当年看雷洛传，王晶不拍贺岁尬喜剧的时候，成熟的功底，配乐就凸现了。甚至还玩起了长镜头。主角配角皆有演技，真的是太久太久没见这样纯正怀旧的港片了。", 
+    "check" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d10a0e8dc89001d9c6986a2"), 
+    "movie_id" : "5d09e9d3dfb8dc3494d45020", 
+    "username" : "wj", 
+    "context" : "神！最后一场戏，基本还原了当年皇后乐队在live aid演唱会的盛况，曲目百分之八十保留，还有龅牙叔献给母亲的那个吻。", 
+    "check" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d10a112dc89001d9c6986a3"), 
+    "movie_id" : "5d0a1b9414cd341520ce1885", 
+    "username" : "wj", 
+    "context" : "当熟悉的音符如电流般直抵高潮，纯粹的角色塑造显得无足轻重，对你，摇滚传奇Freddie Mercury而言，再没有比歌声更精确的人格注脚了。 一成不变的天空，偶尔会有燃烧的陨星击穿云层，即兴地闪耀，清脆地焚毁，散成光艳袭人的碎片，巡游在历史里，巡游在半空，被人呼吸，被不同的时代回忆。", 
+    "check" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d10a138dc89001d9c6986a4"), 
+    "movie_id" : "5d09c102b831750d82886d46", 
+    "username" : "wj", 
+    "context" : "“如果再也不能见到你，祝你早安，午安和晚安。”", 
+    "check" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d10e8b5e00958339483960b"), 
+    "movie_id" : "5d09e93cdfb8dc3494d4501e", 
+    "username" : "yjp", 
+    "context" : "666", 
+    "check" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d11a7a57caf172090b85919"), 
+    "movie_id" : "5d09e9d3dfb8dc3494d45020", 
+    "username" : "匿名用户", 
+    "context" : "yjp", 
+    "check" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d122d4f7b666626c08a9a80"), 
+    "movie_id" : "5d09e9d3dfb8dc3494d45020", 
+    "username" : "wj", 
+    "context" : "真好看！看的热血沸腾！", 
+    "check" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d12ef2dc7a167206070256f"), 
+    "movie_id" : "5d09c102b831750d82886d46", 
+    "username" : "wj", 
+    "context" : "打开这道门，即便现实再最肮脏也请让我自己感受！关掉你的镜头，即使现实再无奈你也必须自己体验！", 
+    "check" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d12f01ac7a1672060702571"), 
+    "movie_id" : "5d09c057b831750d82886d3b", 
+    "username" : "test", 
+    "context" : "荒诞中揭示人性，导演处女作应该说太用心了，简直就是想费力而不只是想讨好(巧)观众；场景和特效都非常认真，荒岛，破船的造型……电影就是高度文明的人再退回到猴子原始时代的现代寓言，这也足见一个酝酿多年的演而优则导的处女作的良苦『野心』，如果多一些这样的的导演，那么我们的国产電影好看了", 
+    "check" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d12f0d1c7a1672060702575"), 
+    "movie_id" : "5d0a1b9414cd341520ce1885", 
+    "username" : "匿名用户", 
+    "context" : "666", 
+    "check" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d138f896491ab2ea0f80efa"), 
+    "movie_id" : "5d12eaa582f1d1537b57e3f2", 
+    "username" : "匿名用户", 
+    "context" : "666", 
+    "check" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d24610b33b1f42c9c1de628"), 
+    "movie_id" : "5d09e93cdfb8dc3494d4501e", 
+    "username" : "wj", 
+    "context" : "国产科幻巨作！", 
+    "check" : true, 
+    "__v" : NumberInt(0)
+}
