@@ -7,9 +7,9 @@
 
 1. 先下载源代码，并且安装 `Node.js`
 
-2. 安装模块：命令行环境下进入`book_service` 文件夹，然后执行 `npm instll`，同样进入`book_view` 文件夹，执行 `npm instll`
+2. 安装模块：命令行环境进入`book_service` 文件夹，执行 `npm instll`，同样进入`book_view` 文件夹，执行 `npm instll`
 
-3. 启动服务：命令行环境下进入`book_service` 文件夹，然后执行 `npm start`，同样进入`book_view` 文件夹，执行 `npm start`
+3. 启动服务：命令行环境进入`book_service` 文件夹，执行 `npm start`，同样进入`book_view` 文件夹，执行 `npm start`
 
 4. 在浏览器中打开网址即可： http://localhost:8080 
 
