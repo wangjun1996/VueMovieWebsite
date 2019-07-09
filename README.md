@@ -1,5 +1,7 @@
 # VueMovieWebsite
-使用 Vue + Node.js + Express + MongoDB + iView 实现的一个电影社区网站
+使用 Vue + Node.js + Express + MongoDB + iView 实现的一个电影社区网站。由于时间有限，一些细节可能不够完善。
+
+更多相关内容可参考我的博客：[Vue.js学习笔记](https://blog.csdn.net/weixin_42762089/article/details/91492148#Vue.js%E7%94%B5%E5%BD%B1%E7%BD%91%E7%AB%99%E9%A1%B9%E7%9B%AE)
 
 ## 安装
 
