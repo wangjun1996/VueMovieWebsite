@@ -5,7 +5,7 @@
 
 ## 安装
 
-此项目分为服务端和前端，服务端代码在 `book_service` 文件夹中，前端代码在 `book_view` 文件夹中，数据库文件在database文件夹中（分为json和sql两种格式）
+此项目分为服务端和前端，服务端代码在 `book_service` 文件夹中，前端代码在 `book_view` 文件夹中，数据库文件在 `database` 文件夹中（分为 json 和 sql 两种格式）
 
 1. 先下载源代码，并且安装 `Node.js`
 
@@ -74,3 +74,33 @@ MongoDB可视化界面软件：Studio 3T
 5. users 用户表
 
 6. mails 站内信表（时间有限，此功能前台部分未实现）
+
+## 5.项目截图
+
+![首页](screenshot/1.首页.png)
+
+![注册页面](screenshot/2.注册页面.png)
+
+![登录页面](screenshot/3.登录页面.png)
+
+![电影列表页面](screenshot/4.电影列表页面.png)
+
+![影评列表页面](screenshot/5.影评列表页面.png)
+
+![电影详情页面](screenshot/6.电影详情页面.png)
+
+![影评详情页面](screenshot/7.影评详情页面.png)
+
+![后台管理主页面](screenshot/8.后台管理主页面.png)
+
+![电影管理页面](screenshot/9.电影管理页面.png)
+
+![添加电影页面](screenshot/10.添加电影页面.png)
+
+![影评管理页面](screenshot/11.影评管理页面.png)
+
+![添加影评页面](screenshot/12.添加影评页面.png)
+
+![评论管理页面](screenshot/13.评论管理页面.png)
+
+![用户管理页面](screenshot/14.用户管理页面.png)
